@@ -49,9 +49,9 @@ Some Tools Include:
 
  ![UseCases](Cloud.jpg)
 
-### Local, Hybrid, and Public?
+## Local, Hybrid, and Public?
 
-#### Public:
+### Public:
 - Public clouds are the most common type of cloud computing deployment. The cloud resources (like servers and storage) are owned and operated by a third-party cloud service provider and delivered over the internet. 
 - With a public cloud, all hardware, software, and other supporting infrastructure are owned and managed by the cloud provider. Microsoft Azure is an example of a public cloud.
 
@@ -62,7 +62,7 @@ Some Tools Include:
 - Near-unlimited scalability—on-demand resources are available to meet your business needs.
 - High reliability—a vast network of servers ensures against failure.
 
-#### Private
+### Private
 - A private cloud consists of cloud computing resources used exclusively by one business or organization. 
 - The private cloud can be physically located at your organization’s on-site datacenter, or it can be hosted by a third-party service provider.
 
@@ -72,7 +72,7 @@ Some Tools Include:
 - More control—resources are not shared with others, so higher levels of control and privacy are possible.
 - More scalability—private clouds often offer more scalability compared to on-premises infrastructure.
 
-#### Hybrid 
+### Hybrid 
 - A hybrid cloud platform gives organizations many advantages—such as greater flexibility, more deployment options, security, compliance, and getting more value from their existing infrastructure.
 - When computing and processing demand fluctuates, hybrid cloud computing gives businesses the ability to seamlessly scale up their on-premises infrastructure to the public cloud to handle any overflow—without giving third-party datacenters access to the entirety of their data. 
 - Organizations gain the flexibility and innovation the public cloud provides by running certain workloads in the cloud while keeping highly sensitive data in their own datacenter to meet client needs or regulatory requirements.
