@@ -47,7 +47,7 @@ Some Tools Include:
 - Larger companies may prefer to retain complete control over their applications and infrastructure, but they want to purchase only what they actually consume or need.
 - Companies experiencing rapid growth like the scalability of IaaS, and they can change out specific hardware and software easily as their needs evolve.
 
- ![UseCases](Cloud.png)
+ ![UseCases](Cloud.jpg)
 
 ### Local, Hybrid, and Public?
 
